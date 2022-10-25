@@ -1,0 +1,6 @@
+# Project exclude paths
+/target/
+/logs
+# Project exclude paths
+/BIOChart/target/
+/NIO/target/
